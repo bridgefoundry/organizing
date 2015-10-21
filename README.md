@@ -1,41 +1,40 @@
-## Organizing: How workshops happen. :boom:
+## Organizing: Make it Visible. :boom:
 
-Planning RailsBridge workshops should be visible and transparent. Visibility makes it easier for us to help each other and show new organizers how we work. To jump in, check out the [list](https://github.com/railsbridge/organizing/issues) of workshops currently being planned. 
+Planning workshops and other events should be visible and transparent. Visibility makes it easier for us to help each other and show new organizers how we work. To jump in, check out the [list](https://github.com/railsbridge/organizing/issues) of workshops currently being planned. 
 
-When organizing, remember the mission of RailsBridge is to diversify and improve the software development community. We ask that:
-* Your workshop reach out to a group of people that are underrepresented in the community. That might be women, people of color, non-native English speakers, LGBQA communities, or other marginalized groups.
-* Your workshop is free for students to attend. We want to remove as many barriers to entry as possible.
+When organizing, remember our mission is to diversify and improve the software development community. We ask that:
+* Workshops reach out to a group of people that are underrepresented in the community. That might be women, people of color, non-native English speakers, LGBQA communities, or other marginalized groups.
+* Workshops must be free for students to attend. We want to remove as many barriers to entry as possible.
+* Volunteer events seek to engage people as leaders who might otherwise not have opportunities to shine as technical leaders.  Seek to support and encourage new leaders in ways that align with their career goals.
 
 ## Helping Out
 This repo is the place to come if you want to propose a workshop, organize a workshop, or sponsor a workshop by offering space or :moneybag:. 
 
-If you want to teach at or attend a workshop, RSVP for a workshop near you on [BridgeTroll](http://www.bridgetroll.org/)! If you want to work on the RailsBridge curricula, you want [railsbridge/docs](https://github.com/railsbridge/docs).
+If you want to teach at or attend a workshop, RSVP for a workshop near you on [BridgeTroll](http://www.bridgetroll.org/)! 
 
 Here are some specific ways you can help out:
 
 #### Kick off a Workshop
-If you want to kick off a workshop, start by [creating an issue](https://github.com/railsbridge/organizing/issues/new). Create one issue for each workshop. It's awesome if the title includes a date, and location, as far as you know. (And you can always edit the issue.) 
+If you want to kick off a workshop, start by [creating an issue](https://github.com/bridgefoundry/organizing/issues/new). Create one issue for each workshop. It's awesome if the title includes a date, and location, as far as you know. (And you can always edit the issue.) 
 
-Mention your collaborators if you know who they will be, make [todo lists](https://github.com/blog/1542-task-lists-in-gist) for everything that needs to be done, and add some labels. Check out the [first one](https://github.com/railsbridge/organizing/issues/1) as an example, and feel free to copy [this gist](https://gist.githubusercontent.com/lilliealbert/8328d415daedfea886d6/raw/623df85d700342e05d3fa988556002bf007ec283/gistfile1.md) as a template when creating a new issue. :bowtie:
+Mention your collaborators if you know who they will be, make [todo lists](https://github.com/blog/1542-task-lists-in-gist) for everything that needs to be done, and add some labels. Check out the [first one](https://github.com/bridgefoundry/organizing/issues/1) as an example, and feel free to copy [this gist](https://gist.githubusercontent.com/lilliealbert/8328d415daedfea886d6/raw/623df85d700342e05d3fa988556002bf007ec283/gistfile1.md) as a template when creating a new issue. :bowtie:
 
 Then have a conversation to hammer out the details of the workshop in the comments section. (Make sure to not say confidential things, like people's phone numbers. The whole point of this is that **everyone can see** how we're organizing workshops.) 
 
 Optionally, you can also ask anyone on the @railsbridge/organizers team to add you to the team. (That will allow you add and remove issue labels, plus it's a cool group of people to be on a team with.) 
 
-##### If you're on the @railsbridge/organizers team, you only need the username and [this link](https://github.com/orgs/railsbridge/teams/organizers) to add someone to the team. It's that easy! :palm_tree:
+##### If you're on the @bridgefoundry/organizers team, you only need the username and [this link](https://github.com/orgs/bridgefoundry/teams/organizers) to add someone to the team. It's that easy! :palm_tree:
 
 #### Organize a Workshop
 If you'd like to organize a workshop, you can filter the workshops being planned to only those that [need organizers](https://github.com/railsbridge/organizing/labels/Needs%20Organizer). If there's a workshop in your area, chime in on a workshop thread and offer to help out!
 
-There are sometimes workshops that have organizers, but the organizers would love help, so feel free to browse through [all the issues](https://github.com/railsbridge/organizing/issues). If you see something that's not progressing, leave a comment, letting the organizers know you're available to pitch in. (Also, browsing the issues is a great way to get a feel for the work that goes into a workshop.)
+There are sometimes workshops that have organizers, but the organizers would love help, so feel free to browse through [all the issues](https://github.com/bridgefoundry/organizing/issues). If you see something that's not progressing, leave a comment, letting the organizers know you're available to pitch in. (Also, browsing the issues is a great way to get a feel for the work that goes into a workshop.)
 
 We have very thorough documentation in our [Workshop Cookbook](https://github.com/railsbridge/docs/wiki/Cookbook). Check it out!
 
-If you're an SF metaorganizer, [this private list of organizers](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdEtJVDlrb3dXckd4bFktUGptM2VkWmc#gid=1) may be useful to you. :racehorse:
-
 #### Sponsor a workshop
 
-Most RailsBridge workshops take place in offices of companies that support what we're doing. To offer your space, filter the workshops to those that [need a venue](https://github.com/railsbridge/organizing/labels/Needs%20Venue/Sponsor)! If you find a workshop you want to host, chime in with a note on the issue, and let the organizers know the location and capacity of your office, along with anything else you think will be relevant for the organizers. 
+Most workshops take place in offices of companies that support what we're doing. To offer your space, filter the workshops to those that [need a venue](https://github.com/bridgefoundry/organizing/labels/Needs%20Venue/Sponsor)! If you find a workshop you want to host, chime in with a note on the issue, and let the organizers know the location and capacity of your office, along with anything else you think will be relevant for the organizers. 
 
 A sample message might be:
 > Hi, I work at Sprokets Incoporated, and we'd love to host this workshop! 
@@ -46,7 +45,7 @@ A sample message might be:
 
 > I talked with our facilities manager, and everyone on the RSVP list can skip signing with security when they come in. Let me know if it's a deal; I'm super excited to make this happen! 
 
-If your company doesn't have space to host a workshop, you can still sponsor! Filter the workshops by those that [need a venue and sponsor](https://github.com/railsbridge/organizing/labels/Needs%20Venue/Sponsor) or those that only [need a sponsor](https://github.com/railsbridge/organizing/labels/Needs%20Sponsor) and chime in to offer support. 
+If your company doesn't have space to host a workshop, you can still sponsor! Filter the workshops by those that [need a venue and sponsor](https://github.com/bridgefoundry/organizing/labels/Needs%20Venue/Sponsor) or those that only [need a sponsor](https://github.com/bridgefoundry/organizing/labels/Needs%20Sponsor) and chime in to offer support. 
 
 An sample message might be:
 
